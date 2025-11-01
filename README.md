@@ -30,4 +30,7 @@ This is a web-based currency converter that allows users to convert amounts betw
 
 Overall, the application demonstrates modern web development practices, including DOM manipulation, event handling, asynchronous programming with promises, and integration with external APIs for real-time data.
 
+<img width="1913" height="904" alt="Image" src="https://github.com/user-attachments/assets/47b2e5db-87c7-4f36-8171-0814a97b98d6" />
+<img width="1890" height="906" alt="Image" src="https://github.com/user-attachments/assets/f4e57002-682c-421c-a8eb-00fabda81b8d" />
+
 
